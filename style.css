@@ -1,0 +1,43 @@
+table {
+    border: 2px solid black;
+    text-align: center;
+
+}
+h1 {
+    text-align: center;
+}
+td {
+    border: 2px solid black;
+    text-align: center;
+    height: 55px;
+    width: 65px;
+}
+.Alkalickekovy {
+    background-color: red;
+}
+.Kovyalkalickýchzemin {
+    background-color: orange;
+}
+.Přechodnékovy {
+    background-color: purple;
+}
+.Kovy {
+    background-color: cornflowerblue;
+}
+.Polokovy {
+    background-color: lightblue;
+}
+.Nekovy {
+    background-color: green;
+}
+.Halogeny {
+    background-color: blue;
+}
+.Vzacneplyny {
+    background-color: yellow;
+}
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    padding-left: 50px;
+}
